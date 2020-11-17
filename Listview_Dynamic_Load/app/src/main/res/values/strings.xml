@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Listview_Dynamic_Load</string>
+    <string name="TV_Title">ListView動態載入</string>
+
+    <string-array name="Item_List_Array">
+        <item>"item 1"</item>
+        <item>"item 2"</item>
+        <item>"item 3"</item>
+        <item>"item 4"</item>
+    </string-array>
+</resources>
